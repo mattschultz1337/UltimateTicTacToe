@@ -68,7 +68,7 @@ public class TicTacToe
         System.out.print(board2[2][2] + "   ");
         System.out.println();
         System.out.println();
-        System.out.print(board0[0][0] + " ");
+        System.out.print(board3[0][0] + " ");
         System.out.print(board3[0][1] + " ");
         System.out.print(board3[0][2] + "   ");
         System.out.print(board4[0][0] + " ");
@@ -99,7 +99,7 @@ public class TicTacToe
         System.out.print(board5[2][2] + "   ");
         System.out.println();
         System.out.println();
-        System.out.print(board0[0][0] + " ");
+        System.out.print(board6[0][0] + " ");
         System.out.print(board6[0][1] + " ");
         System.out.print(board6[0][2] + "   ");
         System.out.print(board7[0][0] + " ");
